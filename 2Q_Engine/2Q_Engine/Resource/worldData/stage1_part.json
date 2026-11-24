@@ -1,0 +1,28 @@
+[
+  {
+    "tileCollider": [
+      1,
+      1,
+      74,
+      18
+    ],
+    "tileImage": [
+      "../Resource/tile/default.jpg",
+      74,
+      18
+    ]
+  },
+  {
+    "tileCollider": [
+      22,
+      19,
+      74,
+      36
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_inside_03.png",
+      74,
+      36
+    ]
+  }
+]

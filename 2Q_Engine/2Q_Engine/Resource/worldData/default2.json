@@ -1,0 +1,320 @@
+[
+  {
+    "bitmap": [
+      ""
+    ],
+    "name": "player",
+    "player": [
+      300.0,
+      200.0
+    ]
+  },
+  {
+    "name": "camera"
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_grass.png",
+      24,
+      4
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_grass.png",
+      25,
+      4
+    ]
+  },
+  {
+    "tileCollider": [
+      24,
+      4,
+      26,
+      4
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_grass.png",
+      26,
+      4
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      27,
+      4
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      28,
+      4
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      29,
+      4
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      30,
+      4
+    ]
+  },
+  {
+    "tileCollider": [
+      27,
+      4,
+      31,
+      4
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      31,
+      4
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      3,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      4,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      5,
+      7
+    ]
+  },
+  {
+    "tileCollider": [
+      3,
+      7,
+      6,
+      7
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      6,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_inside_03.png",
+      7,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_inside_03.png",
+      8,
+      7
+    ]
+  },
+  {
+    "tileCollider": [
+      7,
+      7,
+      9,
+      7
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_inside_03.png",
+      9,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      10,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      11,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      12,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      13,
+      7
+    ]
+  },
+  {
+    "tileCollider": [
+      10,
+      7,
+      14,
+      7
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      14,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_inside_01.png",
+      15,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_inside_01.png",
+      16,
+      7
+    ]
+  },
+  {
+    "tileCollider": [
+      15,
+      7,
+      17,
+      7
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_inside_01.png",
+      17,
+      7
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      0,
+      8
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      1,
+      8
+    ]
+  },
+  {
+    "tileCollider": [
+      0,
+      8,
+      2,
+      8
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      2,
+      8
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      18,
+      10
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      19,
+      10
+    ]
+  },
+  {
+    "tileCollider": [
+      18,
+      10,
+      20,
+      10
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_center.png",
+      20,
+      10
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_bush.png",
+      21,
+      10
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_bush.png",
+      22,
+      10
+    ]
+  },
+  {
+    "tileCollider": [
+      21,
+      10,
+      23,
+      10
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_bush.png",
+      23,
+      10
+    ]
+  },
+  {
+    "bitmap": [
+      "../Resource/image/pngegg.png"
+    ],
+    "boxCollider": [
+      50,50,
+      300.0,
+      200.0
+    ],
+    "name": "item"
+  },
+  {
+    "boxCollider": [
+      200,200,
+      700.0,
+      200.0
+    ],
+    "name": "savePoint"
+  },
+  {
+    "boxCollider": [
+      200,200,
+      1800.0,
+      0.0
+    ],
+    "name": "savePoint"
+  }
+]

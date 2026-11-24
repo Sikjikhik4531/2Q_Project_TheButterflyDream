@@ -1,0 +1,15 @@
+[
+  {
+    "tileCollider": [
+      0,
+      0,
+      31,
+      18
+    ],
+    "tileImage": [
+      "../Resource/tile\\tile01.png",
+      31,
+      18
+    ]
+  }
+]

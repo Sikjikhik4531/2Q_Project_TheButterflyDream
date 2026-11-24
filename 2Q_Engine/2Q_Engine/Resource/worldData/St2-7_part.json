@@ -1,0 +1,15 @@
+[
+  {
+    "tileCollider": [
+      0,
+      1,
+      32,
+      32
+    ],
+    "tileImage": [
+      "../Resource/tile\\spike.png",
+      32,
+      32
+    ]
+  }
+]

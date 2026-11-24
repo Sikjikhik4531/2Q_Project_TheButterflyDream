@@ -1,0 +1,13 @@
+# Visual Studio
+.vs/
+x64/
+*.pdb
+*.ilk
+*.obj
+*.ipch
+*.idb
+*.tlog
+*.user
+*.zip
+*_Portfolio.md
+*포트폴리오*.md

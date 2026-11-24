@@ -1,0 +1,30 @@
+[
+  {
+    "tileImage": [
+      "../Resource/tile\\tile01.png",
+      0,
+      0
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\tile01.png",
+      0,
+      1
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\tile01.png",
+      0,
+      2
+    ]
+  },
+  {
+    "tileImage": [
+      "../Resource/tile\\tile01.png",
+      0,
+      3
+    ]
+  }
+]

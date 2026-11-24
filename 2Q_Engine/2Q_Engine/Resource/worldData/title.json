@@ -1,0 +1,43 @@
+[
+  {
+    "name": "ttt",
+    "ui": [
+      "../Resource/image/main.png",
+      960,
+      540
+    ]
+  },
+  {
+    "name": "startButton",
+    "button": [
+      "../Resource/image/start_01.png",
+      "../Resource/image/start_02.png",
+      960,
+      660,
+      300,
+      100
+    ]
+  },
+  {
+    "name": "creditButton",
+    "button": [
+      "../Resource/image/credit_01.png",
+      "../Resource/image/credit_02.png",
+      960,
+      780,
+      300,
+      100
+    ]
+  },
+  {
+    "name": "quitButton",
+    "button": [
+      "../Resource/image/exit_01.png",
+      "../Resource/image/exit_02.png",
+      960,
+      900,
+      300,
+      100
+    ]
+  }
+]

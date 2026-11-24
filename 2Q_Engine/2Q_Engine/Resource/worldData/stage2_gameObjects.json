@@ -1,0 +1,199 @@
+[
+  {
+    "name": "next",
+    "root": [ 136650, 220, 0, 1, 1 ],
+    "boxCollider": [ 200, 200 ]
+  },
+
+  {
+    "name": "tutorial",
+    "root": [ 136630, 8600, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Interact"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 140570, 8480, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Interact"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 140850, 8450, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Jump"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 141100, 8480, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Dash"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 137860, 5600, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Teleport"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 134850, 6450, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Teleport"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 134710, 6050, 0, 0.27, 0.27 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Dash"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 134720, 6100, 0, 0.27, 0.27 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Jump"
+    ]
+  },
+  {
+    "name": "spike",
+    "root": [ 129570, 7404, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 129618, 7404, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 129694, 7404, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 129742, 7404, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 129795, 7404, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 129850, 7404, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 129890, 7404, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 129928, 7404, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 129968, 7404, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 130022, 7404, 0, 1, 1 ]
+  },
+
+
+
+
+
+  {
+    "name": "spike",
+    "root": [ 138467, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 138519, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 138585, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 138645, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 138979, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 139040, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 138269, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 138219, 7394, 0, 1, 1 ]
+  },
+
+
+  {
+    "name": "spike",
+    "root": [ 138159, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 138109, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 138059, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 138009, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 137959, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 137909, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 137859, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 137809, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 137759, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 137709, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 137669, 7394, 0, 1, 1 ]
+  },
+  {
+    "name": "spike",
+    "root": [ 137628, 7394, 0, 1, 1 ]
+  }
+]

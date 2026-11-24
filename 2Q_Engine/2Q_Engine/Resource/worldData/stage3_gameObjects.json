@@ -1,0 +1,15 @@
+[
+
+  {
+    "name": "next",
+    "root": [ 256500, 512, 0, 1, 1 ],
+    "boxCollider": [ 200, 200 ]
+  },
+  {
+    "name": "item",
+    "root": [ 270464, 1760, 0, 1, 1 ],
+    "boxCollider": [ 32, 32 ],
+    "bitmap": "../Resource/tile/item.png"
+  }
+
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "name": "background1",
+    "BG": [ "../Resource/image/background_01.png", 0, 1 ]
+  },
+  {
+    "name": "background2",
+    "BG": [ "../Resource/image/background_01_03.png", 21, 19 ]
+  }
+]

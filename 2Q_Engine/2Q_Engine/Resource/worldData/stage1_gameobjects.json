@@ -1,0 +1,48 @@
+[
+  {
+    "name": "next",
+    "root": [ 2450, 2255, 0, 1, 1 ],
+    "boxCollider": [ 200, 200 ],
+    "bitmap": "../Resource/image/tigris_.png"
+  },
+  {
+    "name": "tutorial",
+    "root": [ 470, 770, 0, 0.7, 0.7 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Move"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 680, 1000, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Jump"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 1400, 850, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "DoubleJump"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 2650, 450, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "DoubleJump"
+    ]
+  },
+  {
+    "name": "tutorial",
+    "root": [ 2970, 490, 0, 0.6, 0.6 ],
+    "animation": [
+      "../Resource/Animation/TutorialAnimation.txt",
+      "Dash"
+    ]
+  }
+]

@@ -1,0 +1,55 @@
+[
+  {
+    "name": "backGround1",
+    "BG": [ "../Resource/image/background_02.png", 116, 130 ]
+  },
+  {
+    "name": "backGround2",
+    "BG": [ "../Resource/image/background_02_02.png", 148, 127 ]
+
+  },
+  {
+    "name": "backGround3",
+    "BG": [ "../Resource/image/background_02_03.png", 180, 116 ]
+
+  },
+  {
+    "name": "backGround4",
+    "BG": [ "../Resource/image/background_02_04.png", 212, 114 ]
+
+  },
+  {
+    "name": "backGround5",
+    "BG": [ "../Resource/image/background_02_05.png", 180, 95 ]
+
+  },
+  {
+    "name": "backGround6",
+    "BG": [ "../Resource/image/background_02_06.png", 147, 83 ]
+
+  },
+  {
+    "name": "backGround7",
+    "BG": [ "../Resource/image/background_02_07.png", 114, 83 ]
+
+  },
+  {
+    "name": "backGround8",
+    "BG": [ "../Resource/image/background_02_08.png", 34, 83 ]
+
+  },
+  {
+    "name": "backGround9",
+    "BG": [ "../Resource/image/background_02_09.png", 1, 83 ]
+
+  },
+  {
+    "name": "backGround10",
+    "BG": [ "../Resource/image/background_02_10.png", 19, 35 ]
+
+  },
+  {
+    "name": "backGround11",
+    "BG": [ "../Resource/image/background_02_11.png", 51, 1 ]
+  }
+]

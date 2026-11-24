@@ -1,0 +1,15 @@
+[
+  {
+    "tileCollider": [
+      0,
+      1,
+      32,
+      20
+    ],
+    "tileImage": [
+      "../Resource/tile\\Tilemap_grass_side_02.png",
+      32,
+      20
+    ]
+  }
+]
